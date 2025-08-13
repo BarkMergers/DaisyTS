@@ -1,4 +1,4 @@
-﻿import { ReactNode } from 'react';
+﻿import type { ReactNode } from 'react';
 
 export default function StatsItem({ children, title, footer, bodyClass = "", icon }:
     { children: ReactNode, title: string, footer: string, bodyClass?: string, icon?: ReactNode }) {
