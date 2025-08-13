@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "daisyts2", "DaisyTS2\daisyts2.esproj", "{23C98364-C550-096B-1841-2FFDF32FB4D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23C98364-C550-096B-1841-2FFDF32FB4D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C98364-C550-096B-1841-2FFDF32FB4D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C98364-C550-096B-1841-2FFDF32FB4D9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{23C98364-C550-096B-1841-2FFDF32FB4D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C98364-C550-096B-1841-2FFDF32FB4D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C98364-C550-096B-1841-2FFDF32FB4D9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E49A5A-2529-4191-AD51-CA6F1D3497C1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+.paginationButton
+ {
+    display: inline-block;
+    transition: 0.3s;
+    cursor: pointer;
+    background-color: silver;
+}
+
+    .paginationButton:not(first-child) {
+        border-right: 1px solid black;
+    }
+
+.paginationButton:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.paginationButton:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
